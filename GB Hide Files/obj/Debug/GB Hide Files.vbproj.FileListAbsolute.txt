@@ -1,0 +1,11 @@
+E:\vb\VS\GB Hide Files\GB Hide Files\bin\Debug\GB Hide Files.exe.config
+E:\vb\VS\GB Hide Files\GB Hide Files\bin\Debug\GB Hide Files.exe
+E:\vb\VS\GB Hide Files\GB Hide Files\bin\Debug\GB Hide Files.pdb
+E:\vb\VS\GB Hide Files\GB Hide Files\bin\Debug\GB Hide Files.xml
+E:\vb\VS\GB Hide Files\GB Hide Files\obj\Debug\GB Hide Files.vbprojResolveAssemblyReference.cache
+E:\vb\VS\GB Hide Files\GB Hide Files\obj\Debug\GB_Hide_Files.Form1.resources
+E:\vb\VS\GB Hide Files\GB Hide Files\obj\Debug\GB_Hide_Files.Resources.resources
+E:\vb\VS\GB Hide Files\GB Hide Files\obj\Debug\GB Hide Files.vbproj.GenerateResource.Cache
+E:\vb\VS\GB Hide Files\GB Hide Files\obj\Debug\GB Hide Files.exe
+E:\vb\VS\GB Hide Files\GB Hide Files\obj\Debug\GB Hide Files.xml
+E:\vb\VS\GB Hide Files\GB Hide Files\obj\Debug\GB Hide Files.pdb
